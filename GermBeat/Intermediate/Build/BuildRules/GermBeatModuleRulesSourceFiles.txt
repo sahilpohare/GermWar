@@ -1,0 +1,3 @@
+H:\GermWar\GermBeat\Source\GermBeat\GermBeat.Build.cs
+H:\GermWar\GermBeat\Source\GermBeat.Target.cs
+H:\GermWar\GermBeat\Source\GermBeatEditor.Target.cs
