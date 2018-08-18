@@ -1,3 +1,3 @@
-H:\GermWar\GermBeat\Source\GermBeat\GermBeat.Build.cs
-H:\GermWar\GermBeat\Source\GermBeat.Target.cs
-H:\GermWar\GermBeat\Source\GermBeatEditor.Target.cs
+C:\Users\GEORGE\Documents\Projects\Unreal 4.20\GermBeat\GermWar\GermBeat\Source\GermBeat\GermBeat.Build.cs
+C:\Users\GEORGE\Documents\Projects\Unreal 4.20\GermBeat\GermWar\GermBeat\Source\GermBeat.Target.cs
+C:\Users\GEORGE\Documents\Projects\Unreal 4.20\GermBeat\GermWar\GermBeat\Source\GermBeatEditor.Target.cs
